@@ -1,0 +1,10 @@
+requests
+scikit-learn
+pandas
+numpy
+scipy
+xgboost
+lightgbm
+catboost
+transformers
+torch
