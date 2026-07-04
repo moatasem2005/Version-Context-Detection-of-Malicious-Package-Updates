@@ -1,0 +1,7 @@
+config,f1,drop
+without absolute_after_counts,0.7381,0.1573
+without entropy,0.8852,0.0102
+without size_deltas,0.8919,0.0035
+without ast,0.8944,0.001
+without static_signal_deltas,0.8945,0.0009
+ALL features,0.8954,0.0
